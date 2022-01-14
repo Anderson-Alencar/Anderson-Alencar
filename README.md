@@ -29,4 +29,19 @@ Here are some ideas to get you started:
   />
 </a>
 
+<hr />
+
+<p>Opa! Anderson aqui! Estou estudando todos os dias com o objetivo de me tornar um Desenvolvedor Web FullStack</p>
+
+<h2>Tecnolgias e conhecimentos aprendidos</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>RTL</li>
+  <li>Git</li>
+  <li>React.js</li>
+  <li>Redux</li>
+</ul>
+
 
