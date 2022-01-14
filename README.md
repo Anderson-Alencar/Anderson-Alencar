@@ -48,3 +48,5 @@ Here are some ideas to get you started:
     alt="badge do Gmail"   
   />
 </a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anderson-Alencar&show_icons=true&theme=dark)
