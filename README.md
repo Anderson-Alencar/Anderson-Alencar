@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Anderson-Alencar/Anderson-Alencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,9 +29,9 @@ Here are some ideas to get you started:
 
 <hr />
 
-<p>Opa! Anderson aqui! Estou estudando todos os dias com o objetivo de me tornar um Desenvolvedor Web FullStack</p>
+<span>Opa! Anderson aqui! 👋 Estou estudando todos os dias com o objetivo de me tornar um Desenvolvedor Web FullStack</span>
 
-<h2>Tecnolgias e conhecimentos aprendidos</h2>
+<h4>Tecnolgias e conhecimentos aprendidos</h4>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
