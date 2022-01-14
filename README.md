@@ -13,6 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<h2>Opa! Anderson aqui! 👋</h2>
+
+<span>Por favor, sinta-se bem vindo! 😊</span>
+
+<p>Estou estudando todos os dias com o objetivo de me tornar um Desenvolvedor Web FullStack 🚀 </p>
+
+<h3>Tecnolgias e conhecimentos aprendidos 🤓</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>RTL</li>
+  <li>Git</li>
+  <li>React.js</li>
+  <li>Redux</li>
+</ul>
+
+<h3>Quer falar comigo? 💬</h3>
+
 <a href="https://www.linkedin.com/in/anderson-c-alencar/">
   <img 
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -26,20 +46,3 @@ Here are some ideas to get you started:
     alt="badge do Gmail"   
   />
 </a>
-
-<hr />
-
-<span>Opa! Anderson aqui! 👋 Estou estudando todos os dias com o objetivo de me tornar um Desenvolvedor Web FullStack</span>
-
-<h4>Tecnolgias e conhecimentos aprendidos</h4>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>RTL</li>
-  <li>Git</li>
-  <li>React.js</li>
-  <li>Redux</li>
-</ul>
-
-
