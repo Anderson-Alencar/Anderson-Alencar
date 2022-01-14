@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <span>Por favor, sinta-se bem vindo! 😊</span>
 
 <p>Estou estudando todos os dias com o objetivo de me tornar um Desenvolvedor Web FullStack 🚀 </p>
+<br />
 
 <h3>Tecnolgias e conhecimentos aprendidos 🤓</h3>
 <ul>
@@ -30,6 +31,7 @@ Here are some ideas to get you started:
   <li>React.js</li>
   <li>Redux</li>
 </ul>
+<br />
 
 <h3>Quer falar comigo? 💬</h3>
 
