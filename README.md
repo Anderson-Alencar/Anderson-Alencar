@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p>Estou estudando todos os dias com o objetivo de me tornar um Desenvolvedor Web FullStack 🚀 </p>
 <br />
 
-<h3>Tecnolgias e conhecimentos aprendidos 🤓</h3>
+<h3>Tecnologias e conhecimentos aprendidos 🤓</h3>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
