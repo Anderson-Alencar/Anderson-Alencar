@@ -30,6 +30,10 @@ Here are some ideas to get you started:
   <li>Git</li>
   <li>React.js</li>
   <li>Redux</li>
+  <li>Docker</li>
+  <li>SQL</li>
+  <li>Node.js</li>
+  <li>Arquitetura Rest e Restful</li>
 </ul>
 <br />
 
