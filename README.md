@@ -105,7 +105,3 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anderson-Alencar&show_icons=true&theme=vision-friendly-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Alencar&layout=compact&theme=vision-friendly-dark)](https://github.com/Anderson-Alencar/github-readme-stats)
