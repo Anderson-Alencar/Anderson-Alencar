@@ -85,6 +85,10 @@ Here are some ideas to get you started:
   src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
   alt="badge do MySQL"   
 />
+<img
+  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+  alt="badge do MongoDB"
+/>
 
 <br />
 
