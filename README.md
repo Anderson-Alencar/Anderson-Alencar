@@ -48,6 +48,10 @@ Here are some ideas to get you started:
   alt="badge do React js"   
 />
 <img 
+  src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"
+  alt="badge do Vue js"   
+/>
+<img 
   src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
   alt="badge do Node js"   
 />
